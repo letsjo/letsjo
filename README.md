@@ -18,7 +18,8 @@
 <p align="center">
 
 <h2 align="left">📝 TECH STACK</h2>
-**<h3> 🖼️ FRONT END </h3>**
+
+**<h3> 🎨 FRONT END </h3>**
 
 **<h4>✨ Publisher</h4>**
 <p style="margin-left: 40px">
