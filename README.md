@@ -1,14 +1,20 @@
-<p align="center">
+<p align="right">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fletsjo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+<p align="left">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=79C83D&fontColor=E7E7E7&height=200&section=header&text=LetsJo%20Github!&fontSize=90" />
 <br><br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fletsjo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+<h3><b>Hello ! My name is Hyunoh Jo</b>👋</h3>
+<b>- Front-end Web Developer</b> 👨‍💻<br>
+<b>- Looking for Job 👀</b><br><br><br>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=letsjo&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsjo&layout=compact&theme=dark"><br><br>
 </p>
 <br>
 
 <p align="center">
-<b>Hello ! My name is Hyunoh Jo</b>👋<br><br>
-<b>Front-end Web Developer</b> 👨‍💻<br><br>
-<b>Looking for Job 👀</b><br><br>
 
 **<h1 align="left">📝 TECH STACK</h1>**
 **<h3> 🖼️ FRONT END </h3>**
@@ -42,7 +48,3 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
 </p>
 <br>
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=letsjo&show_icons=true&theme=dark)
-</div>
