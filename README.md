@@ -4,18 +4,20 @@
 <p align="left">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=79C83D&fontColor=E7E7E7&height=200&section=header&text=LetsJo%20Github!&fontSize=90" />
 </p>
+
+<h1 align="left">🐵 I am...</h1>
 <h3><b>Hello ! My name is Hyunoh Jo</b>👋</h3>
 <b>- Front-end Web Developer</b> 👨‍💻<br>
 <b>- Looking for Job 👀</b><br><br><br>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=letsjo&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=letsjo&show_icons=true&theme=dark">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsjo&layout=compact&theme=dark"><br><br>
 </p>
 <br>
 
 <p align="center">
 
-**<h1 align="left">📝 TECH STACK</h1>**
+<h2 align="left">📝 TECH STACK</h2>
 **<h3> 🖼️ FRONT END </h3>**
 
 **<h4>✨ Publisher</h4>**
