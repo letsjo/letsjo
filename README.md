@@ -3,7 +3,6 @@
 </p>
 <p align="left">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=79C83D&fontColor=E7E7E7&height=200&section=header&text=LetsJo%20Github!&fontSize=90" />
-<br><br>
 </p>
 <h3><b>Hello ! My name is Hyunoh Jo</b>👋</h3>
 <b>- Front-end Web Developer</b> 👨‍💻<br>
