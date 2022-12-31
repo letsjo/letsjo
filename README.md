@@ -7,6 +7,8 @@
 
 <h1 align="left">🐵 I am...</h1>
 <h3><b>Hello ! My name is Hyunoh Jo</b>👋</h3>
+<b>- Front-end Web Developer</b> 👨‍💻<br>
+<b>- Looking for Job 👀</b><br><br>
 
 ```js
 const Hyunoh = {
@@ -16,13 +18,11 @@ const Hyunoh = {
 };
 ```
 
-<b>- Front-end Web Developer</b> 👨‍💻<br>
-<b>- Looking for Job 👀</b><br><br>
 <a href = "https://github.com/letsjo/" target="_blank"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href = "https://velog.io/@gusdh2/" target="_blank"><img alt="velog" src ="https://img.shields.io/badge/velog-181717.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a><br><br><br>
+<a href = "https://velog.io/@gusdh2/" target="_blank"><img alt="velog" src ="https://img.shields.io/badge/velog-181717.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=letsjo&show_icons=true&theme=dark">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsjo&layout=compact&theme=dark"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsjo&layout=compact&theme=dark">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=letsjo&show_icons=true&theme=dark"><br><br>
 </p>
 <br>
 
