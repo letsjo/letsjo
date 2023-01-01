@@ -7,7 +7,7 @@
 
 <h1 align="left">🐵 I am...</h1>
 <h3><b>Hello ! My name is Hyunoh Jo</b>👋</h3>
-<b>- NickName is Tummy</b> 🤓<br>
+<b>- NickName is Tummy</b> 😼<br>
 <b>- Front-end Web Developer</b> 👨‍💻<br>
 <b>- Looking for Job 👀</b><br>
 <b>- Learning WEB Front-end ( typescript + react native ) ✒️</b><br><br>
