@@ -40,7 +40,6 @@ const Hyunoh = {
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.Js-339933?style=flat&logo=Node.js&logoColor=white" />
 </p>
 
 **<h4>✨ Language</h4>**
@@ -53,6 +52,7 @@ const Hyunoh = {
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=Styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white">
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.Js-339933?style=flat&logo=Node.js&logoColor=white" />
 </p>
 
 **<h4> ✨ Tools </h4>**
