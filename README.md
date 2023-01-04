@@ -52,7 +52,7 @@ const Hyunoh = {
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=Styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white">
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.Js-339933?style=flat&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 </p>
 
 **<h4> ✨ Tools </h4>**
