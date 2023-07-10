@@ -10,7 +10,7 @@
 <b>- NickName is Tummy</b> 😼<br>
 <b>- Front-end Web Developer</b> 👨‍💻<br>
 <b>- Looking for Job 👀</b><br>
-<b>- Learning WEB Front-end ( typescript + react native ) ✒️</b><br><br>
+<b>- Learning WEB Front-end ( typescript + nest.js ) ✒️</b><br><br>
 
 
 ```js
